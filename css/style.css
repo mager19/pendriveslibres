@@ -219,9 +219,9 @@ header a:hover{
 
 #contenido p{
 
-	margin-left: 20%;
+	margin-left: 10%;
 	margin-top: 1em;
-	width: 60%;
+	width: 80%;
 
 }
 
@@ -274,6 +274,14 @@ header a:hover{
 	margin-top: 1em;
 	width: 60%;
 
+}
+
+#compartir ul li{
+
+	color: #f9f9f9;
+	font-weight: 300;
+	font-family: 'lato';
+	list-style: none;
 }
 
 .numero{
@@ -379,7 +387,9 @@ header a:hover{
 
 #compartir span{
 
-	color:#f9f9f9;
+	color:#EFDC05;
+	font-size: 2em;
+	font-family: 'lato';
 
 	
 }
